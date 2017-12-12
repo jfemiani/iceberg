@@ -1,3 +1,4 @@
 .json
 .ipynb_checkpoints
 ./processed/data
+.hdf5
